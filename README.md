@@ -1,1 +1,1 @@
-'M' - Settings 'R' - Restart
+'M' - Settings  'R' - Restart
